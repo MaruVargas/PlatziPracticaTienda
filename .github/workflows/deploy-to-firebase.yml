@@ -1,7 +1,5 @@
 name: Build and Deploy
-on:
-  push: [push]
-
+on: [push]
 jobs:
   build:
     name: Build
